@@ -35,8 +35,10 @@ Here are some ideas to get you started:
 <br />
 
 ### 📊 Stats 📊
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jesusllorens79&show_icons=true&theme=dracula&locale=es&layout=compact" alt="jesusllorens79" /></p>
 
 ![Jesus's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesusllorens79&show_icons=true&theme=tokyonight)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jesusllorens79&theme=dark" alt="jesusllorens79" /></p>
 
 #
 <details>
