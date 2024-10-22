@@ -36,7 +36,9 @@ Here are some ideas to get you started:
 
 ### 📊 Stats 📊
 
-![Jesus's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesusllorens79&show_icons=true&theme=gruvbox)
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=jesusllorens79&theme=vue-dark&border_radius=4.5) -->
+![Jesus's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesusllorens79&show_icons=true&theme=tokyonight)
 
 #
+<details>
+  <summary><h3>Work in Progress </h3></summary>
+</details>
