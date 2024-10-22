@@ -1,5 +1,5 @@
 ### Hi there, I'm Jesus Llorens 👋
-**Data Engineer/Data Scientist (videogames lover)**
+**Data Engineer/Data Scientist**
 <!--
 **jesusllorens79/jesusllorens79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
