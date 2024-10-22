@@ -1,7 +1,5 @@
 ### Hi there, I'm Jesus Llorens 👋
-# jesusllorens79
-
-**'Data Engineer/Data Scientist (videogames lover)'**
+**Data Engineer/Data Scientist (videogames lover)**
 <!--
 **jesusllorens79/jesusllorens79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p> 🔭 Currently working at Iconsulting </p>
+<p> 🔭 Currently working at Iconsulting, located in Bologna, Italy 🍝 </p>
+<p> 🌱 Originary from Valencia, Spain 🥘 </p>
+<p>  📫 You can reach me here:  https://www.linkedin.com/in/jesus-llorens/ </p>
 
 ### ⚡ Languages and  Tools ⚡
 
