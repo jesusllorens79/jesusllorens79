@@ -17,3 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p> 🔭 Currently working at Iconsulting </p>
+
+### Languages and Tools
+<img align= "left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/python-original.svg"/>
+<img align= "left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/git-original.svg" />
+<img align= "left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/linux-original.svg" />
+<img align= "left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/godot-original.svg" />
