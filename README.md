@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ![Jesus's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesusllorens79&show_icons=true&theme=tokyonight)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jesusllorens79&theme=dark" alt="jesusllorens79" /></p>
 
-#
+[![Leetcode Stats](https://leetcard.jacoblin.cool/jesusllorens79)](https://leetcode.com/jesusllorens79)
 <details>
   <summary><h3>Work in Progress </h3></summary>
 </details>
