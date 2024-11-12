@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Github](https://img.shields.io/github/followers/jesusllorens79?label=Follow&style=social)](https://github.com/jesusllorens79)
+
 <p> 🔭 Currently working at Iconsulting, located in Bologna, Italy 🍝 </p>
 <p> 🌱 Originary from Valencia, Spain 🥘 </p>
 <p>  📫 You can reach me here:  https://www.linkedin.com/in/jesus-llorens/ </p>
