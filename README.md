@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 <br />
 
 ### 📊 Stats 📊
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jesusllorens79&show_icons=true&theme=dracula&locale=es&layout=compact" alt="jesusllorens79" /></p>
-
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jesusllorens79&show_icons=true&theme=dracula&locale=es&layout=compact" alt="jesusllorens79" /></p>
+-->
 ![Jesus's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesusllorens79&show_icons=true&line_height=28card_width=347&include_all_commits=true&role=owner,collaborator&rank_icon=percentile&exclude_repo=github-readme-stats&theme=tokyonight)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/jesusllorens79)](https://leetcode.com/jesusllorens79)
