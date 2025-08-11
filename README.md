@@ -40,6 +40,4 @@ Here are some ideas to get you started:
 -->
 [![Leetcode Stats](https://leetcard.jacoblin.cool/jesusllorens79)](https://leetcode.com/jesusllorens79)
 
-<details>
-  <summary><h3>Work in Progress </h3></summary>
-</details>
+
